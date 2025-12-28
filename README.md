@@ -32,9 +32,13 @@ Others
 KMK Firmware (planned)
 
 Case(bottom + top) 3D printed
+
+
 ![case](image-2.png)
 
 PCB
+
+
 ![PCB](<Screenshot 2025-12-28 181848.png>)
 
 Schematic
